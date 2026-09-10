@@ -1,4 +1,17 @@
 # Welcome! 💪🏻🌟
+## Browser projects
+
+[![Cromite](https://img.shields.io/badge/Cromite-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uazo/cromite)
+[![IronFox](https://img.shields.io/badge/IronFox-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ironfox-oss/IronFox)
+[![LibreWolf](https://img.shields.io/badge/LibreWolf-GitHub%20Mirror-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/librewolf-community/browser-linux)
+
+## Similar browsers
+
+[![Mullvad Browser](https://img.shields.io/badge/Mullvad%20Browser-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mullvad/mullvad-browser)
+[![Tor Browser](https://img.shields.io/badge/Tor%20Browser-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/torproject/tor-browser)
+[![Ungoogled Chromium](https://img.shields.io/badge/Ungoogled%20Chromium-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ungoogled-software/ungoogled-chromium)
+[![Floorp](https://img.shields.io/badge/Floorp-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Floorp-Projects/Floorp)
+[![Vanadium](https://img.shields.io/badge/Vanadium-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrapheneOS/Vanadium)
 
 <!--
 **voidnodeframework/voidnodeframework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
