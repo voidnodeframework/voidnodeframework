@@ -1,5 +1,5 @@
 # Welcome! 💪🏻🌟
-## [Julia]: https://github.com/julialang/julia - Zig - Bash Enthusiast 
+
 ## Browsers I  🤍
 [![Cromite](https://img.shields.io/badge/Cromite-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uazo/cromite)
 [![IronFox](https://img.shields.io/badge/IronFox-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ironfox-oss/IronFox)
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 [![Badge License]][License]   
 [![Badge Likes]][#]
-
+[![Julia]][JULIA]
+- Zig - Bash Enthusiast 
 <br>
 <br>
     
@@ -49,6 +50,9 @@ Here are some ideas to get you started:
 
 
 <!---------------------------------------------------------------------------->
+
+[JULIA]: https://github.com/julialang/julia
+
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
