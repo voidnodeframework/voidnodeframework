@@ -1,4 +1,5 @@
 # Welcome! 💪🏻🌟
+## [Julia]: https://github.com/julialang/julia - Zig - Bash Enthusiast 
 ## Browsers I  🤍
 [![Cromite](https://img.shields.io/badge/Cromite-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uazo/cromite)
 [![IronFox](https://img.shields.io/badge/IronFox-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ironfox-oss/IronFox)
