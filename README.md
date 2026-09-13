@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 [![Badge License]][License]   
 [![Badge Likes]][#]
-[![Julia]][JULIA]
-- Zig - Bash Enthusiast 
+**[![Julia]][JULIA] - Zig - Bash Enthusiast**
+
 <br>
 <br>
     
