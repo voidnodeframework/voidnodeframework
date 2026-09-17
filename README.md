@@ -1,5 +1,5 @@
 # Just arranging building blocks for the profile .md, ignore
-<img src="assets/banner.webp"
+<img src="small.webp"
      alt="Project preview"
      width="117"
      height="83">
