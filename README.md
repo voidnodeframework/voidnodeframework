@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/small.webp" alt="Preview" width="180">
+      <img src="small.webp" alt="Preview" width="180">
     </td>
     <td width="70%" valign="middle">
       <strong>Your project name</strong><br>
