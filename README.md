@@ -1,13 +1,13 @@
 # Just arranging building blocks for the profile .md, ignore
 <table>
   <tr>
-    <td valign="middle">
+    <td style="padding: 0;" valign="middle">
       <img src="small.webp"
            alt="Project preview"
            width="117"
            height="83">
     </td>
-    <td valign="middle">
+    <td style="padding: 8px 12px;" valign="middle">
       <strong>Project name</strong><br>
       A short description beside the image.<br>
       Small, compact, and space-efficient.
