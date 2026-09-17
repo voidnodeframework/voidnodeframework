@@ -1,5 +1,13 @@
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/)
+
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
+
 <!--
 **voidnodeframework/voidnodeframework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
