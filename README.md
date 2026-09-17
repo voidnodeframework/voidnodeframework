@@ -1,8 +1,30 @@
 # Just arranging building blocks for the profile .md, ignore
 
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/banner.webp"
+           alt="Project preview"
+           width="220">
+    </td>
+    <td width="65%" valign="middle">
+      <h3>Project title</h3>
+      <p>
+        A short description can go here beside the image instead of below it.
+      </p>
+      <p>
+        <strong>✅ Added feature</strong><br>
+        Some additional information about the project.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
 | | |
 |---|---|
-| <img src="small.webp" alt="Project preview" width="220"> | **placeholder title**<br><br>A short description goes here beside the image. |
+| <img src="small.webp" alt="Project preview" width="220"> | **placeholder title**<br><br>text goes here. |
 
 
 ![WebpTest](small.webp)
