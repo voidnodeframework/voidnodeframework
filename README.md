@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="117" valign="middle">
-      <img src="assets/banner.webp"
+      <img src="small.webp"
            alt="Project preview"
            width="117"
            height="83">
