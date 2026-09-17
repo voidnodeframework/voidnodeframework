@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/banner.webp"
+      <img src="small.webp"
            alt="Project preview"
            width="220">
     </td>
