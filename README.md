@@ -7,10 +7,10 @@
            width="117"
            height="83">
     </td>
-    <td width="15"></td>
     <td valign="middle">
       <strong>Project name</strong><br>
-      A short description beside the image.
+      A short description beside the image.<br>
+      Small, compact, and space-efficient.
     </td>
   </tr>
 </table>
