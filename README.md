@@ -1,5 +1,5 @@
 
-
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/)
 <!--
 **voidnodeframework/voidnodeframework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-**[![Julia]][JULIA] - Zig - Bash Enthusiast**
+**[![Julia]][JULIA] - Zig - Bash**
 
 <br>
 <br>
