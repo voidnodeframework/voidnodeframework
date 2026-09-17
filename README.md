@@ -2,8 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-```ansi
-[31mRed terminal text[0m
+```diff
++ Added feature
+- Removed feature
+! Warning message
 ```
 
 $\color{red}{Red\ text}$
