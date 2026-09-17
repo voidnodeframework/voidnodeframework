@@ -1,5 +1,8 @@
 # Just arranging building blocks for the profile .md, ignore
-
+<img src="assets/banner.webp"
+     alt="Project preview"
+     width="117"
+     height="83">
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
@@ -14,7 +17,7 @@
 </table>
 
 <!-- Divider --> 
-
+<!--
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
@@ -34,7 +37,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <!-- Divider -->
 
 | | |
