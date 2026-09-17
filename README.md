@@ -1,8 +1,5 @@
 # Just arranging building blocks for the profile .md, ignore
-<img src="assets/test.webp"
-     alt="Project banner"
-     width="600"
-     height="300">
+
 ![WebpTest](test.webp)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
