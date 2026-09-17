@@ -2,6 +2,21 @@
 
 <table>
   <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="assets/small.webp" alt="Preview" width="180">
+    </td>
+    <td width="70%" valign="middle">
+      <strong>Your project name</strong><br>
+      A concise description of what it does.<br><br>
+      <a href="https://github.com/your-name/your-repo">View the project →</a>
+    </td>
+  </tr>
+</table>
+
+<!-- Divider --> 
+
+<table>
+  <tr>
     <td width="40%" align="center" valign="middle">
       <img src="small.webp"
            alt="Project preview"
@@ -20,7 +35,7 @@
   </tr>
 </table>
 
-
+<!-- Divider -->
 
 | | |
 |---|---|
