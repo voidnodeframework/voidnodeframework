@@ -1,4 +1,11 @@
 
+$\color{red}{Red\ text}$
+
+$\color{#00aa00}{Green\ text}$
+
+$\color{blue}{Blue\ text}$
+
+
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/)
 
 <!--
