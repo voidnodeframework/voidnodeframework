@@ -1,9 +1,21 @@
 # Just arranging building blocks for the profile .md, ignore
-<img src="small.webp"
-     alt="Project preview"
-     width="117"
-     height="83">
 <table>
+  <tr>
+    <td width="117" valign="middle">
+      <img src="assets/banner.webp"
+           alt="Project preview"
+           width="117"
+           height="83">
+    </td>
+    <td valign="middle">
+      <strong>Project name</strong><br>
+      A short description beside the image.<br>
+      Small, compact, and space-efficient.
+    </td>
+  </tr>
+</table>
+
+
   <tr>
     <td width="30%" align="center" valign="middle">
       <img src="small.webp" alt="Preview" width="180">
