@@ -2,7 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-
+```ansi
+[31mRed terminal text[0m
+```
 
 $\color{red}{Red\ text}$
 $\color{#00aa00}{Green\ text}$
