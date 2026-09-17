@@ -1,9 +1,16 @@
 
 $\color{red}{Red\ text}$
-
 $\color{#00aa00}{Green\ text}$
-
 $\color{blue}{Blue\ text}$
+
+$\color{red}{\textsf{Red}} \color{blue}{\textsf{Blue}} \color{green}{\textsf{Green}}$
+
+$\color{#ff6600}{\textsf{Orange text}}$
+
+$\color{red}{\textsf{Red}}$ $\color{blue}{\textsf{Blue}}$ $\color{#20c997}{\textsf{Teal}}$
+
+$\Large{\color{#58A6FF}{\textsf{Important note}}}$
+
 
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/)
@@ -12,6 +19,21 @@ $\color{blue}{Blue\ text}$
 **voidnodeframework/voidnodeframework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I can add assets within the repo then call them in the readme.md
+
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="70" role="img" aria-label="Project status: beta">
+  <rect width="420" height="70" rx="12" fill="#161b22"/>
+  <text x="22" y="44"
+        font-family="Arial, sans-serif"
+        font-size="28"
+        font-weight="bold"
+        fill="#58a6ff">
+    Project status: Beta
+  </text>
+</svg>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
