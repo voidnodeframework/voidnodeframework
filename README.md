@@ -1,5 +1,7 @@
 # Just arranging building blocks for the profile .md, ignore
 
+![WebpTest](test.webp)
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ```diff
