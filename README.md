@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td width="35%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img src="small.webp"
            alt="Project preview"
-           width="220">
+           width="200">
     </td>
-    <td width="65%" valign="middle">
+    <td width="50%" valign="middle">
       <h3>Project title</h3>
       <p>
         A short description can go here beside the image instead of below it.
