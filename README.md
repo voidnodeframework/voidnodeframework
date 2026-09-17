@@ -1,5 +1,10 @@
 # Just arranging building blocks for the profile .md, ignore
 
+| | |
+|---|---|
+| <img src="small.webp" alt="Project preview" width="220"> | **placeholder title**<br><br>A short description goes here beside the image. |
+
+
 ![WebpTest](small.webp)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
