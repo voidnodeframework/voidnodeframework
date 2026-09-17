@@ -6,7 +6,7 @@ https://gprm.itsvg.in/
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=voidnodeframework&theme=graywhite&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api?username=voidnodeframework&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.shion.dev/api?username=voidnodeframework&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=voidnodeframework&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
