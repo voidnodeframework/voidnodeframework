@@ -1,5 +1,10 @@
 # Just arranging building blocks for the profile .md, ignore
 
+## Currently Learning
+- GitHub Actions
+- Podman
+- Project File Structure
+
 ## Resources for profile markdown generation:
 - https://gprm.itsvg.in/
 - https://readme.so/editor
