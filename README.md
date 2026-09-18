@@ -33,9 +33,9 @@
            height="83">
     </td>
     <td style="padding: 8px 12px;" valign="middle">
-      <strong>Project name</strong><br>
-      A short description beside the image.<br>
-      Small, compact, and space-efficient.
+      <strong>VoidNodeFramework</strong><br>
+      Small placeholder to test <br>
+      styling .md files !! :D
     </td>
     <td style="padding: 0;" valign="middle">
       <img src="small.webp"
