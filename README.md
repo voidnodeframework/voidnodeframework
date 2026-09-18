@@ -37,6 +37,12 @@
       A short description beside the image.<br>
       Small, compact, and space-efficient.
     </td>
+    <td style="padding: 0;" valign="middle">
+      <img src="small.webp"
+           alt="Project preview"
+           width="117"
+           height="83">
+    </td>
   </tr>
 </table>
 
