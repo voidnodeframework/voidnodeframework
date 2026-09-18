@@ -46,38 +46,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="small.webp"
-           alt="Project preview"
-           width="117"
-           height="83">
-    </td>
-    <td width="15"></td>
-    <td valign="middle">
-      <strong>Project name</strong><br>
-      🟢 Stable<br>
-      ✅ Feature added<br>
-      📦 Version 1.2
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-<!-- Divider --> 
-<!--
-
-<!-- Divider -->
-
-| | |
-|---|---|
-| <img src="small.webp" alt="Project preview" width="220"> | **placeholder title**<br><br>text goes here. |
-
-
 ![WebpTest](small.webp)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
