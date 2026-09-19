@@ -1,5 +1,10 @@
 # Just arranging building blocks for the profile .md, ignore
 
+keep important at the top
+for myself on the lower half
+known apps, distributions, technologies etc.
+
+
 # K3s my saving grace
 <!-- https://github.com/rancher/rke2 -->
 ![https://github.com/k3s-io/k3s](https://img.shields.io/badge/Kubernetes-k3s-informational?style=for-the-badge&logo=kubernetes)
