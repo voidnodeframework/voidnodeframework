@@ -1,6 +1,8 @@
 # Just arranging building blocks for the profile .md, ignore
 
 # K3s my saving grace
+https://github.com/rancher/rke2
+https://github.com/k3s-io/k3s
 
 ## Currently Learning
 - GitHub Actions
