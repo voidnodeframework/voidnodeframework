@@ -2,7 +2,7 @@
 
 # K3s my saving grace
 https://github.com/rancher/rke2
-https://github.com/k3s-io/k3s
+![https://github.com/k3s-io/k3s](https://img.shields.io/badge/Kubernetes-k3s-informational?style=for-the-badge&logo=kubernetes)
 
 ## Currently Learning
 - GitHub Actions
