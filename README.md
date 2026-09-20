@@ -7,6 +7,7 @@ known apps, distributions, technologies etc.
 
 # K3s my saving grace
 <!-- https://github.com/rancher/rke2 -->
+## started k3s since: 19/09/2026
 ![https://github.com/k3s-io/k3s](https://img.shields.io/badge/Kubernetes-k3s-informational?style=for-the-badge&logo=kubernetes)
 
 ## Currently Learning
