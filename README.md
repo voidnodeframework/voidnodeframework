@@ -4,6 +4,7 @@ keep important at the top
 for myself on the lower half
 known apps, distributions, technologies etc.
 
+superfile
 
 # K3s my saving grace
 <!-- https://github.com/rancher/rke2 -->
