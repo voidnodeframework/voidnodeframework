@@ -5,7 +5,7 @@ for myself on the lower half
 known apps, distributions, technologies etc.
 
 superfile
-
+https://www.youtube.com/watch?v=pDIMXiKyvA4
 # K3s my saving grace
 <!-- https://github.com/rancher/rke2 -->
 ## started k3s since: 19/09/2026
